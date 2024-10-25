@@ -8,8 +8,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-solution-01Zr1eL_kB)
+- Live Site URL: (https://frontend-challenge-social-links-profile.vercel.app)
 
 ### Built with
 
